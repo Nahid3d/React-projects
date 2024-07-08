@@ -1,0 +1,20 @@
+.components{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    
+}
+.visited{
+    background-color: lightcyan;
+    color: rgb(56, 19, 56);
+    text-align: justify;
+    
+
+}
+
+.flags-container img{
+    width: 100px;
+    border-radius: 10px;
+    margin: 6px;
+    height: 100px;
+}
